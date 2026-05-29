@@ -4,7 +4,7 @@ Personal profile README for  Ki Brueg
 AI Automation & No-Code/Low-Code Builder | Telegram Bots | n8n | AI Scraping & OSINT
 
 📍 Berlin, Germany  
-📧 - Telegram: https://telegram.me/Snapsum
+📧 - Telegram: @Snapsum
 🔗 [LinkedIn](www.linkedin.com/in/ki-brueg-2520033bb)  
 🔗 [GitHub](https://github.com/Ki-Brueg)
 
@@ -60,6 +60,5 @@ I build Telegram bots, n8n integrations, AI systems for data collection and anal
 
 ## Contact
 
-- Email: your_email@example.com  
-- Telegram: @your_telegram  
-- LinkedIn: https://linkedin.com/in/your-profile
+- LinkedIn: www.linkedin.com/in/ki-brueg-2520033bb
+- Telegram: @Snapsum
